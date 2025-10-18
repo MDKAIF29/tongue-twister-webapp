@@ -1,0 +1,7 @@
+{
+  "name": "Tongue Twisters Web App",
+  "description": "An interactive web application to practice and improve your pronunciation of tongue twisters using speech recognition technology. Get real-time feedback, error highlighting, and a clarity score to track your progress.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
